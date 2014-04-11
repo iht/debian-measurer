@@ -32,7 +32,6 @@ want to measure. Use this script to grab all the sources for all the releases:
 
 base_url="ftp://ftp.rediris.es/mirror/debian/"
 
-
 echo 'stable\ntesting\nsid\nexperimental\nstable-updates\nstable-proposed-updates\ntesting-proposed-updates'| while read d
 do
 
